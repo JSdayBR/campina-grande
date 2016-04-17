@@ -61,16 +61,17 @@
     - {name: "github", link: "http://github.com/brunogamacatao"}
 -
   id: 6
-  name: "João"
-  surname: "Gabriel"
+  name: "Thulio"
+  surname: "Philipe"
   company: "Epitrack"
-  title: "Software Engineer/Teacher"
-  bio: "Paraense, viciado em açaí, mestre em Computação Aplicada, Professor e Pesquisador em Inteligência Computacional e Mineração de Dados. Apaixonado por Javascript, já atuei como instrutor em diversos cursos envolvendo tecnologias web, trabalho diariamente com a tecnologia e espero que cresça cada dia mais. Músico nas horas vagas, não dispenso uma boa oportunidade de tirar um som com os amigos! "
-  thumbnailUrl: joao-gabriel.jpg
+  title: "Software Engineer"
+  bio: "É Engenheiro de software na Epitrack, entusiasta do Offline-first e amante de CSS, participa de projetos em vigilância participativa no Brasil e EUA. Formado em design gráfico pela Unibratec, é especialista em Web Apps e fã de Breaking Bad e House."
+  thumbnailUrl: thulio-philipe.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: "https://br.linkedin.com/in/joaogabriellima"}
-    - {name: "github", link: "http://github.com/jgabriellima"}
+    - {name: "linkedin", link: "https://br.linkedin.com/in/thulioph"}
+    - {name: "twitter", link: "http://twitter.com/thulioph_"}
+    - {name: "github", link: "http://github.com/thulioph"}
 -
   id: 7
   name: "Fernando"
