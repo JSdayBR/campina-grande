@@ -127,3 +127,15 @@ Atualmente trabalha como Web Developer na SodaVirtual."
   bio: "Apaixonado por tecnologia, com mais de 10 anos de experiência na área de Desenvolvimento de Software e Gerenciamento de Projetos. Atualmente é Líder de Projetos na Embedded/UFCG para Projetos na Compal (Taiwan), Professor do Curso de Sistemas de Informação na Facisa. Tem interesse em programação."
   thumbnailUrl: daniel-abella.jpg
   rockstar: true
+-
+  id: 12
+  name: "Bueno"
+  surname: "Nepomuceno"
+  company: "INSS"
+  title: "Desenvolvedor"
+  bio: "Desenvolvedor de software no INSS, apaixonado por tecnologias livres e comunidades engajadas. Com foco em experiência de usuário já trabalhou em projetos de Segurança Pública, Sistemas Críticos de Saúde, Acervo de Microorganismos e mais recentemente com Logística Governamental. Organizador do Grupo de Desenvolvedores Google de Campina Grande, Pesquisador no Laboratório de Tecnologia de Informação da Facisa e voluntário no Rotaract Club de Campina Grande."
+  thumbnailUrl: bueno-nepomuceno.jpg
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+BuenoNepomuceno"}
+    - {name: "github", link: "https://github.com/buenonp"}
+    - {name: "linkedin", link: "https://br.linkedin.com/in/buenonp"}

@@ -110,3 +110,11 @@
   speakers: [10,11]
   language: pt-BR
   complexity: "Intermediate"
+-
+  id: 110
+  title: "Construindo Apps Web/Mobile com Polymer e Web Components"
+  description: "E se fosse possível utilizar o mesmo código para desenvolver suas aplicações web e mobile? E se fosse possível acabar com o emaranhado de código do desenvolvimento web? E se fosse possível construir aplicativos nos melhores padrões do Material Design utilizando apenas HTML? E se fosse possível fazer tudo isso de forma reutilizável e colaborativa? O Google fez possível!"
+  subtype: presentation
+  speakers: [12]
+  language: pt-BR
+  complexity: "Iniciante"
