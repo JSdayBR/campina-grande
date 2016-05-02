@@ -35,86 +35,96 @@
   title: "Desenvolvimento Client-Side em 2016"
   description: "Quais são nossos desafios atuais, como Front-Enders? Temos um número de questões para resolver, que se encararmos como nossa responsabilidade, conseguiremos evoluir. O tema dessa palestra inclui: modelos de API; RESTful é velho? Grupos de frameworks; No UI e o futuro."
   subtype: presentation
-  speakers: [1]
+  speakers: [9]
   language: pt-BR
   complexity: "Advanced"
+  presentation: "http://www.slideshare.net/Hugeinc/desenvolvimento-clientside-2016"
 -
   id: 101
   title: "Having fun with Progressive Web Apps"
   description: ""
   subtype: presentation
-  speakers: [2]
+  speakers: [1]
   language: pt-BR
   complexity: "Intermediate"
+  presentation: "https://docs.google.com/presentation/d/1vvfv_Wl-m49EzbKXc_WvbsSHKyNYHnH8Hu27zpfzKXI/edit?usp=sharing"
 -
   id: 102
-  title: "Criando uma Web App com React.js + Firebase"
+  title: "Workshop: Criando uma Web App com React.js + Firebase"
   description: "Neste workshop vamos criar uma Web App com React.js + Firebase do inicio ao fim. Entender a comunicação entre componentes, utilizar o melhor do ECMAScript 2015 (ES6) e armazenar e sicronizar os dados da aplicação com Firebase."
   subtype: Codelab
-  speakers: [3]
+  speakers: [12]
   language: pt-BR
   complexity: "Intermediate"
+  presentation: "https://speakerdeck.com/brenopolanski/criando-uma-web-app-com-react-dot-js-plus-firebase"
 -
   id: 103
   title: "O realístico mundo do WebVR com A-Frame"
   description: "O Oculus Rift é um grande exemplo do caminho que a realidade virtual esta seguindo e esse mundo também está acessível à Web. Com o A-Frame podemos criar experiências incríveis, de uma maneira mais simples do que você imagina."
   subtype: presentation
-  speakers: [4]
+  speakers: [3]
   language: pt-BR
   complexity: "Intermediate"
+  presentation: "http://brunolima.io/talk-mozvr-aframe/"
 -
   id: 104
   title: "MEAN Stack"
   description: "Introdução à construção de aplicações para a web com a tecnologia Node.js, middleware Express.js, framework Angular.js e o banco de dados MongoDB."
   subtype: presentation
-  speakers: [5]
+  speakers: [7]
   language: pt-BR
   complexity: "Intermediate"
+  presentation: "http://www.slideshare.net/brunogamacatao/introduo-mean-stack"
 -
   id: 105
-  title: "Google Maps API"
+  title: "Google Maps API como você nunca viu"
   description: "Conhece o Google Maps API? Geocode, autocomplete, distance matrix, street view e static map, são nomes conhecidos por você? Saiba como cada um funciona e como você pode criar aplicações web cada vez mais interativas com a google maps api."
   subtype: presentation
-  speakers: [6]
+  speakers: [8]
   language: pt-BR
   complexity: "Intermediate"
+  presentation: "https://speakerdeck.com/thulioph/google-maps-api-como-voce-nunca-viu"
 -
   id: 106
   title: "Mais que mil palavras: Visualizando dados com D3.js"
   description: "Uma imagem vale mais que mil palavras. Da mesma forma, ferramentas de visualização de dados ajudam a explicar de modo mais fácil idéias ou resultados complexos frequentemente associados a dados volumosos. Com o advento da web, big data e data science tais ferrtamentas se tornam ainda mais importantes. Nesta palestra será apresentado o D3.js, uma biblioteca para criar visualizações dinâmicas e interativas."
   subtype: presentation
-  speakers: [7]
+  speakers: [6]
   language: pt-BR
   complexity: "Intermediate"
+  presentation: "https://goo.gl/WtGZME"
 -
   id: 107
   title: "ECMAScript 6 - Consertando as partes ruins do JavaScript"
   description: "Com o advento do ECMAScript 6, alguns pontos levantados pela comunidade e por Douglas Crockford no livro JavaScript: Good Parts se tornaram obsoletos. Essa palestra pretende mostrar uma visão geral destes pontos que foram consertados (e os outros não citados pelo livro) e os ruins que continuam na linguagem baseada no ES6."
   subtype: presentation
-  speakers: [8]
+  speakers: [4]
   language: pt-BR
   complexity: "Intermediate"
+  presentation: "https://speakerdeck.com/diofeher/es6-consertando-as-partes-ruins-do-javascript"
 -
   id: 108
   title: "Crawleando sites com NodeJS"
   description: "Aprenda na prática a usar os recursos do NodeJS para crawlear sites. Um exemplo prático de crawler de sites de receitas vai ser exposto e o código vai estar disponível no github."
   subtype: presentation
-  speakers: [9]
+  speakers: [2]
   language: pt-BR
   complexity: "Intermediate"
+  presentation: "http://allisson.github.io/slides/2016/jsday_cg/#/"
 -
   id: 109
-  title: "JavaScript Saindo do Zero"
+  title: "Workshop: JavaScript Saindo do Zero"
   description: "Neste workshop apresentaremos conceitos básicos de JavaScript para alunos e profissionais que estejam ou tenham interesse em iniciar nesta área, visto que que é base para frameworks bastante disseminados no mercado, como o AngularJS, Node.JS entre outros."
   subtype: presentation
   speakers: [10,11]
   language: pt-BR
   complexity: "Intermediate"
+  presentation: "https://goo.gl/V9iEuU"
 -
   id: 110
   title: "Construindo Apps Web/Mobile com Polymer e Web Components"
   description: "E se fosse possível utilizar o mesmo código para desenvolver suas aplicações web e mobile? E se fosse possível acabar com o emaranhado de código do desenvolvimento web? E se fosse possível construir aplicativos nos melhores padrões do Material Design utilizando apenas HTML? E se fosse possível fazer tudo isso de forma reutilizável e colaborativa? O Google fez possível!"
   subtype: presentation
-  speakers: [12]
+  speakers: [5]
   language: pt-BR
   complexity: "Iniciante"

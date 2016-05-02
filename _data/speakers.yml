@@ -1,18 +1,5 @@
 -
   id: 1
-  name: "Caio"
-  surname: "Vaccaro"
-  company: "HUGE"
-  title: "Front-End Developer"
-  bio: "Com sete anos de experiência em programação, trabalha principalmente como Senior Web Engineer. Participou de diversas startups e projetos, incluindo a Tátil Design. Também trabalhou em agências como a TUUT e atualmente está na HUGE Inc, uma empresa americana focada em criar experiências digitais. Lá lidera uma equipe de desenvolvimento, garantindo boas práticas e processo eficiente, além de atuar em Front-End, Back-End e Continuous Integration."
-  thumbnailUrl: caiovaccaro.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/caiovaccaro"}
-    - {name: "github", link: "https://github.com/caiovaccaro"}
-    - {name: "linkedin", link: "http://linkedin.com/in/caiovaccaro"}
--
-  id: 2
   name: "Juarez"
   surname: "Filho"
   company: "Google Developer Expert"
@@ -25,79 +12,7 @@
     - {name: "twitter", link: "https://twitter.com/juarezpaf"}
     - {name: "github", link: "https://github.com/juarezpaf"}
 -
-  id: 3
-  name: "Breno"
-  surname: "Polanski"
-  company: "Meteorite BI"
-  title: "Front End Software Engineer"
-  bio: "A developer who loves to learn new programming languages​​, build Open Source projects and play video game. Just wanting to change the world through the web ♥"
-  thumbnailUrl: breno-polanski.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "http://twitter.com/brenopolanski"}
--
-  id: 4
-  name: "Bruno"
-  surname: "Lima"
-  company: "CESAR"
-  title: "Front-end Developer"
-  bio: "Desenvolvedor web, focado no front-end. É voluntário da Mozilla, apoiador da open web e neutralidade da rede. Front-end Developer no CESAR, em Recife. Membro do NodeBots Recife."
-  thumbnailUrl: bruno-lima.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://br.linkedin.com/in/brunolimawd"}
-    - {name: "twitter", link: "https://twitter.com/brunolimawd"}
-    - {name: "github", link: "http://github.com/brunolimawd"}
--
-  id: 5
-  name: "Bruno"
-  surname: "Catão"
-  company: "Meteorite.bi"
-  title: "Developer"
-  bio: "Desenvolvedor com 14 anos de experiência, com foco em Java, JavaScript e Ruby (desenvolvo jogos por diversão, normalmente na plataforma Unity3d). Já trabalhei como programador, líder de célula, arquiteto de software, consultor e desenvolvedor full-stack. Também leciono desde 2009 nos cursos de Sistemas de Informação, Jogos Digitais e, mais recentemente, Ciência da Computação."
-  thumbnailUrl: bruno-catao.jpg
-  rockstar: true
-  social:
-    - {name: "github", link: "http://github.com/brunogamacatao"}
--
-  id: 6
-  name: "Thulio"
-  surname: "Philipe"
-  company: "Epitrack"
-  title: "Software Engineer"
-  bio: "É Engenheiro de software na Epitrack, entusiasta do Offline-first e amante de CSS, participa de projetos em vigilância participativa no Brasil e EUA. Formado em design gráfico pela Unibratec, é especialista em Web Apps e fã de Breaking Bad e House."
-  thumbnailUrl: thulio-philipe.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://br.linkedin.com/in/thulioph"}
-    - {name: "twitter", link: "http://twitter.com/thulioph_"}
-    - {name: "github", link: "http://github.com/thulioph"}
--
-  id: 7
-  name: "Fernando"
-  surname: "Junior"
-  company: "UFCG"
-  title: "Master's Degree Student"
-  bio: "Currently a master's degree student in Computer Science at Universidade Federal de Campina Grande. The central area of his research is artificial intelligence and focuses on analyzing patterns from the players' behavior using machine learning. As a full-stack software engineer He also acts in several subjects using primarily open source platforms. Additionally, He is experienced with business intelligence."
-  thumbnailUrl: fernando-junior.jpg
-  rockstar: false
-  social:
-    - {name: "linkedin", link: "https://br.linkedin.com/in/fernandofnjr"}
-    - {name: "github", link: "http://github.com/fernandojunior"}
--
-  id: 8
-  name: "Diógenes"
-  surname: "Fernandes"
-  company: "Buffered"
-  title: "Full-Stack Developer"
-  bio: "Hacker, sports lover and mover"
-  thumbnailUrl: diogenes-fernandes.jpg
-  rockstar: false
-  social:
-    - {name: "twitter", link: "http://twitter.com/diofeher"}
-    - {name: "github", link: "http://github.com/diofeher"}
--
-  id: 9
+  id: 2
   name: "Allisson"
   surname: "Azevedo"
   company: "SodaVirtual"
@@ -110,6 +25,92 @@ Atualmente trabalha como Web Developer na SodaVirtual."
     - {name: "twitter", link: "http://twitter.com/allisson"}
     - {name: "github", link: "http://github.com/allisson"}
     - {name: "linkedin", link: "http://twitter.com/allisson"}
+-
+  id: 3
+  name: "Bruno"
+  surname: "Lima"
+  company: "CESAR"
+  title: "Front-end Developer"
+  bio: "Desenvolvedor web, focado no front-end. É voluntário da Mozilla, apoiador da open web e neutralidade da rede. Front-end Developer no CESAR, em Recife. Membro do NodeBots Recife."
+  thumbnailUrl: bruno-lima.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/brunolimawd"}
+    - {name: "twitter", link: "https://twitter.com/brunolimawd"}
+    - {name: "github", link: "http://github.com/brunolimawd"}
+-
+  id: 4
+  name: "Diógenes"
+  surname: "Fernandes"
+  company: "Buffered"
+  title: "Full-Stack Developer"
+  bio: "Hacker, sports lover and mover"
+  thumbnailUrl: diogenes-fernandes.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "http://twitter.com/diofeher"}
+    - {name: "github", link: "http://github.com/diofeher"}
+-
+  id: 5
+  name: "Bueno"
+  surname: "Nepomuceno"
+  company: "INSS"
+  title: "Desenvolvedor"
+  bio: "Desenvolvedor de software no INSS, apaixonado por tecnologias livres e comunidades engajadas. Com foco em experiência de usuário já trabalhou em projetos de Segurança Pública, Sistemas Críticos de Saúde, Acervo de Microorganismos e mais recentemente com Logística Governamental. Organizador do Grupo de Desenvolvedores Google de Campina Grande, Pesquisador no Laboratório de Tecnologia de Informação da Facisa e voluntário no Rotaract Club de Campina Grande."
+  thumbnailUrl: bueno-nepomuceno.jpg
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+BuenoNepomuceno"}
+    - {name: "github", link: "https://github.com/buenonp"}
+    - {name: "linkedin", link: "https://br.linkedin.com/in/buenonp"}
+-
+  id: 6
+  name: "Fernando"
+  surname: "Junior"
+  company: "UFCG"
+  title: "Master's Degree Student"
+  bio: "Currently a master's degree student in Computer Science at Universidade Federal de Campina Grande. The central area of his research is artificial intelligence and focuses on analyzing patterns from the players' behavior using machine learning. As a full-stack software engineer He also acts in several subjects using primarily open source platforms. Additionally, He is experienced with business intelligence."
+  thumbnailUrl: fernando-junior.jpg
+  rockstar: false
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/fernandofnjr"}
+    - {name: "github", link: "http://github.com/fernandojunior"}
+-
+  id: 7
+  name: "Bruno"
+  surname: "Catão"
+  company: "Meteorite.bi"
+  title: "Developer"
+  bio: "Desenvolvedor com 14 anos de experiência, com foco em Java, JavaScript e Ruby (desenvolvo jogos por diversão, normalmente na plataforma Unity3d). Já trabalhei como programador, líder de célula, arquiteto de software, consultor e desenvolvedor full-stack. Também leciono desde 2009 nos cursos de Sistemas de Informação, Jogos Digitais e, mais recentemente, Ciência da Computação."
+  thumbnailUrl: bruno-catao.jpg
+  rockstar: false
+  social:
+    - {name: "github", link: "http://github.com/brunogamacatao"}
+-
+  id: 8
+  name: "Thulio"
+  surname: "Philipe"
+  company: "Epitrack"
+  title: "Software Engineer"
+  bio: "É Engenheiro de software na Epitrack, entusiasta do Offline-first e amante de CSS, participa de projetos em vigilância participativa no Brasil e EUA. Formado em design gráfico pela Unibratec, é especialista em Web Apps e fã de Breaking Bad e House."
+  thumbnailUrl: thulio-philipe.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://br.linkedin.com/in/thulioph"}
+    - {name: "twitter", link: "http://twitter.com/thulioph_"}
+    - {name: "github", link: "http://github.com/thulioph"}
+-
+  id: 9
+  name: "Caio"
+  surname: "Vaccaro"
+  company: "HUGE"
+  title: "Front-End Developer"
+  bio: "Com sete anos de experiência em programação, trabalha principalmente como Senior Web Engineer. Participou de diversas startups e projetos, incluindo a Tátil Design. Também trabalhou em agências como a TUUT e atualmente está na HUGE Inc, uma empresa americana focada em criar experiências digitais. Lá lidera uma equipe de desenvolvimento, garantindo boas práticas e processo eficiente, além de atuar em Front-End, Back-End e Continuous Integration."
+  thumbnailUrl: caiovaccaro.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/caiovaccaro"}
+    - {name: "github", link: "https://github.com/caiovaccaro"}
+    - {name: "linkedin", link: "http://linkedin.com/in/caiovaccaro"}
 -
   id: 10
   name: "Ruan Pierre"
@@ -129,13 +130,12 @@ Atualmente trabalha como Web Developer na SodaVirtual."
   rockstar: true
 -
   id: 12
-  name: "Bueno"
-  surname: "Nepomuceno"
-  company: "INSS"
-  title: "Desenvolvedor"
-  bio: "Desenvolvedor de software no INSS, apaixonado por tecnologias livres e comunidades engajadas. Com foco em experiência de usuário já trabalhou em projetos de Segurança Pública, Sistemas Críticos de Saúde, Acervo de Microorganismos e mais recentemente com Logística Governamental. Organizador do Grupo de Desenvolvedores Google de Campina Grande, Pesquisador no Laboratório de Tecnologia de Informação da Facisa e voluntário no Rotaract Club de Campina Grande."
-  thumbnailUrl: bueno-nepomuceno.jpg
+  name: "Breno"
+  surname: "Polanski"
+  company: "Meteorite BI"
+  title: "Front End Software Engineer"
+  bio: "A developer who loves to learn new programming languages​​, build Open Source projects and play video game. Just wanting to change the world through the web ♥"
+  thumbnailUrl: breno-polanski.jpg
+  rockstar: false
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+BuenoNepomuceno"}
-    - {name: "github", link: "https://github.com/buenonp"}
-    - {name: "linkedin", link: "https://br.linkedin.com/in/buenonp"}
+    - {name: "twitter", link: "http://twitter.com/brenopolanski"}

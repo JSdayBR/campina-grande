@@ -39,18 +39,19 @@ fbAdminId: "1313798299"
 
 # Documents
 c4pUrl: "https://docs.google.com/forms/d/1TVsUN1L2xcMBK59MFnwW7X90Lw-gcj25_EVwnfTTu0U/viewform"
-c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Recife 2015"
+c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Campina Grande 2016"
 
 # Navigation
 navigationLinks:
   - {permalink: "/", text: "Home"}
   - {permalink: "/speakers/", text: "JS Experts"}
   - {permalink: "/schedule/", text: "Lineup"}
+  - {link: "http://certificado.eventick.com.br/generate/Mz-E3wea8tzrtsKtxZFqqg", text: "Certificados"}
 
 bottomNavigationLinks:
- - {link: "http://even.tc/jsday-campina-grande-2016", text: "Inscreva-se"}
+ - {link: "http://certificado.eventick.com.br/generate/Mz-E3wea8tzrtsKtxZFqqg", text: "Certificados disponíveis →"}
 rightNavigationButtons:
- - {link: "http://even.tc/jsday-campina-grande-2016", text: "Inscreva-se"}
+ - {link: "http://certificado.eventick.com.br/generate/Mz-E3wea8tzrtsKtxZFqqg", text: "Certificados disponíveis →"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -59,7 +60,7 @@ eventDate: "23 de Abril, 2016"
 typeoutTextValues: '"", "JavaScript", "ES2015 (ES6)", "Firebase", "ReactJS", "NodeJS", "WebVR", "Progressive Web Apps"'
 typeoutFallback: "JavaScript"
 heroButtons:
- - {link: "http://even.tc/jsday-campina-grande-2016", text: "Inscreva-se"}
+ - {link: "http://certificado.eventick.com.br/generate/Mz-E3wea8tzrtsKtxZFqqg", text: "Certificados disponíveis →"}
 
 # About Block
 aboutTitle: "Sobre o JSday"
@@ -71,9 +72,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "500", specialCharacter: "+", info: "participantes", detail: "num dos melhores teatros do nordeste"}
- - {count: "10", specialCharacter: "+", info: "horas", detail: "de puro código"}
- - {count: "8", specialCharacter: "+", info: "palestrantes", detail: "com tópicos incríveis"}
+ - {count: "400", specialCharacter: "+", info: "participantes", detail: "num dos melhores teatros do nordeste"}
+ - {count: "16", specialCharacter: "+", info: "horas", detail: "de puro código"}
+ - {count: "12", specialCharacter: "+", info: "palestrantes", detail: "com tópicos incríveis"}
 
 # Latest News Block
 latestNewsTitle: "Novidades"
@@ -163,7 +164,9 @@ footerBlocks:
  -
   title: "Links"
   links:
-    - {link: "http://www.hugeinc.com/", text: "HUGE"}
+    - {link: "https://axway.com", text: "axway"}
+    - {link: "http://cesed.br", text: "Facisa"}
+    - {link: "http://hugeinc.com", text: "HUGE"}
     - {link: "http://fb.com/caravanaweb", text: "Caravana Web"}
  -
   title: "Edições Anteriores"
@@ -183,14 +186,10 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "jsdaycg"
 
 # Speakers List Block
 showSessions: true
-
-# Team Block
-teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
 
 # Call for Papers
 cfpTitle: "Espalhe o amor pelo JavaScript"
